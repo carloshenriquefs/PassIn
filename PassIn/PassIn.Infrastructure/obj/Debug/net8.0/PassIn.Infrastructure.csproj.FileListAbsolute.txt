@@ -1,0 +1,13 @@
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.deps.json
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.dll
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.pdb
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.AssemblyInfoInputs.cache
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.AssemblyInfo.cs
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.sourcelink.json
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.dll
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\refint\PassIn.Infrastructure.dll
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.pdb
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\ref\PassIn.Infrastructure.dll
+C:\projetos\PassIn\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.AssemblyReference.cache

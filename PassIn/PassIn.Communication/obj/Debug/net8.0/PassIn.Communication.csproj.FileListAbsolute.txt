@@ -1,0 +1,12 @@
+C:\projetos\PassIn\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.deps.json
+C:\projetos\PassIn\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.dll
+C:\projetos\PassIn\PassIn\PassIn.Communication\bin\Debug\net8.0\PassIn.Communication.pdb
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.AssemblyInfoInputs.cache
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.AssemblyInfo.cs
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.csproj.CoreCompileInputs.cache
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.sourcelink.json
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.dll
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\refint\PassIn.Communication.dll
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\PassIn.Communication.pdb
+C:\projetos\PassIn\PassIn\PassIn.Communication\obj\Debug\net8.0\ref\PassIn.Communication.dll
