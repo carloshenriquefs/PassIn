@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PassIn.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44b41c842db32ef094d578ae267ddf08088e3903")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5991547440c8ed5e0bd953ed4969c169ea220df")]
+>>>>>>> 44b41c842db32ef094d578ae267ddf08088e3903
 [assembly: System.Reflection.AssemblyProductAttribute("PassIn.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PassIn.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

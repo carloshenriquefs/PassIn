@@ -13,7 +13,7 @@ namespace PassIn.Application.UseCases.Events.GetById
             var entity = dbContext.Events.Find(id);
 
             if (entity is null)
-                throw new PassInException("An event with this id dont exist.");
+                throw new NotFoundException("An event with this id dont exist.");
 
             return new ResponseEventJson
             {
